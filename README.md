@@ -1,5 +1,6 @@
 
-# Android 名企面试题及涉及知识点整理(我会持续更新，欢迎watch和star)。
+# Android 名企面试题及涉及知识点整理。
+### (我会持续更新，欢迎watch)
 
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
