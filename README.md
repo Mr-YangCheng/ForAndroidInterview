@@ -1,12 +1,12 @@
 
-# Android 名企面试题及涉及知识点整理。
+# Android 名企面试题及涉及知识点整理(我会持续更新，欢迎watch和star)。
 
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 
 * [基础知识](http://blog.csdn.net/amazing7)
 
-* [[Android] 名企面试题（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
+* [[Android] 名企面试题及答案整理（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
 
   
 ## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
@@ -90,4 +90,62 @@
 
 * [[数据结构] 队列和栈](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88.md)
 
- 
+## [算法](https://github.com/fanrunqi/ForAndroidInterview/tree/master/algorithm)
+
+* [二叉搜索树与双向链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
+
+* [二叉树中 和为某值 的所有路径](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%20%E5%92%8C%E4%B8%BA%E6%9F%90%E5%80%BC%20%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.md)
+
+* [二叉树的镜像](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
+
+* [二维数组中的查找](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md)
+
+* [二进制中1的个数](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+
+* [从上往下打印二叉树](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
+* [从尾到头打印链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
+
+* [判断二叉搜索树的后序遍历序列](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%88%A4%E6%96%AD%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
+
+* [判断栈的弹出序列](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%88%A4%E6%96%AD%E6%A0%88%E7%9A%84%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
+
+* [判断树B是不是树A的子结构](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%88%A4%E6%96%AD%E6%A0%91B%E6%98%AF%E4%B8%8D%E6%98%AF%E6%A0%91A%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
+
+* [包含min函数的栈](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)
+
+* [反转链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
+* [变态跳台阶](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
+
+* [合并两个排序链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+
+* [复杂链表的复制](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)
+
+* [字符串中空格替换](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%A9%BA%E6%A0%BC%E6%9B%BF%E6%8D%A2.md)
+
+* [字符串的顺序全排列](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E9%A1%BA%E5%BA%8F%E5%85%A8%E6%8E%92%E5%88%97.md)
+
+* [数组中出现次数超过一半的数字](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
+* [斐波那契数列](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
+
+* [旋转数组的最小数字](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
+
+* [浮点数的整数次方](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E6%B5%AE%E7%82%B9%E6%95%B0%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md)
+
+* [用两个栈实现队列](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+
+* [矩形覆盖](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md)
+
+* [调整数组顺序使奇数位于偶数前面](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)
+
+* [跳台阶](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
+
+* [重建二叉树](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
+* [链表中倒数第k个结点](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)
+
+* [顺时针打印矩阵](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
+
+
